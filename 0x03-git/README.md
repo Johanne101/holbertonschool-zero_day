@@ -1,1 +1,1 @@
-# learning to creat a Git directory
+ learning a Git directory and repositories
